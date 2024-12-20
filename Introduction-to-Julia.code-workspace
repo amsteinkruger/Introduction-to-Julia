@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"julia.environmentPath": "c:\\Users\\amste\\OneDrive\\Documents\\GitHub\\Introduction-to-Julia"
+	}
+}
